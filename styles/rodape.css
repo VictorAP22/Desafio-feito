@@ -1,0 +1,37 @@
+.rodapé{
+    text-align: center;
+    background-color: var(--cinza50);
+    padding: 3em 0;
+}
+
+.rodapé__input{
+    margin: 2em 1em;
+    padding: 12px 14px 12px 16px;
+    width: 20%;
+    border-radius: 0.6em;
+    border: 1px solid var(--cinza400);
+    background-color: var(--branco);
+}
+
+
+.rodapé__titulo{
+    font-size: 36px;
+}
+
+.rodapé__texto{
+     text-align: center;
+     margin: 0.5em 0;
+     color: var(--cinza500);
+     font-size: 20px;
+}
+
+.rodapé__cadastro{
+    padding: 0.7em;
+}
+
+.rodapé__copy{
+    color: var(--cinza400);
+    margin-bottom: 1.5em;
+
+}
+

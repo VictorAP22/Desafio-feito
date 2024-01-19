@@ -1,0 +1,16 @@
+.vagas__sobre{
+    background: var(--rosa);
+    padding: 0.7em;
+    border-radius: 16px;
+    font-size: 14px;
+}
+
+.vagas__titulo{
+    width: 1800px;
+    text-align: center;
+}
+
+.vagas__texto{
+    margin-bottom: 2.5em;
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+.depoimento{
+    background-color: var(--rosa);
+    border-radius: 16px;
+    margin: 5em;
+    padding: 4.5em;
+    text-align: center;
+}
+
+.depoimento__titulo{
+    font-size: 36px;
+    width: 1090px;
+}
+
+.dpoimento__nome{
+    color: var(--cinza900);
+    font-size: 16px;
+    font-weight: 500;
+    padding: 1em 0;
+}
+
+.depoimento__texto{
+    font-size: 14px;
+}
